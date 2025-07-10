@@ -36,6 +36,8 @@ import pickle
 # Warnings
 import warnings
 warnings.filterwarnings("ignore")
+!pip install scikit-surprise
+
 
 """Load the datasets
 
